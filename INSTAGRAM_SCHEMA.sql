@@ -126,21 +126,3 @@ INSERT INTO photo_tags(photo_id, tag_id) VALUES
 
 SELECT * FROM tags;
 SELECT * FROM photo_tags;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
